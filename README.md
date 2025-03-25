@@ -1,6 +1,6 @@
 # 📱 Meu Portfólio Android 🚀  
 
-Olá! Meu nome é [Seu Nome] e sou desenvolvedor Android.  
+Olá! Meu nome é Sandro Barbosa e sou desenvolvedor Android.  
 Este repositório contém projetos que demonstram minhas habilidades em Kotlin, Jetpack Compose e Clean Architecture.  
 
 ## 📌 Tecnologias que eu domino  
